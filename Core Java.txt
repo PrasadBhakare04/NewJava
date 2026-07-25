@@ -1,0 +1,82 @@
+Core Java
+00:00:00 – Intro / Core Java
+00:05:04 – JDK Setup
+00:13:21 – First Code in Java
+00:24:35 – Java Working
+00:36:34 – Variables
+00:45:00 – Data Types
+01:04:42 – Type Conversion
+01:16:35 – Operators
+01:45:45 – Conditional Statements
+02:16:00 – Loop Statements
+02:49:45 – Class and Objects
+03:10:00 – JDK, JRE, JVM
+03:27:00 – Method Overloading
+03:45:00 – Arrays
+04:32:00 – Strings
+04:51:30 – Encapsulation
+05:14:42 – Constructors
+05:26:33 – Static Keyword
+05:33:39 – Static Methods
+05:45:17 – Naming Conventions
+05:45:42 – Inheritance
+06:31:55 – Method Overriding
+06:39:30 – Packages
+06:51:51 – Access Modifiers
+07:00:15 – Polymorphism
+07:04:02 – Dynamic Method Dispatch
+07:11:59 – Final Keyword
+07:18:10 – Object Class
+07:30:08 – Downcasting & Upcasting
+07:44:51 – Abstract Keyword
+07:56:58 – Inner Classes
+07:59:03 – Anonymous Inner Classes
+08:07:22 – Interfaces
+08:27:11 – Enums
+08:45:45 – Annotations
+08:56:43 – Lambda Expressions
+09:10:41 – Exceptions
+09:55:29 – User Input (BufferedReader/Scanner)
+10:15:25 – Threads
+11:05:55 – Collection API
+11:53:15 – Stream API //I am here
+12:40:32 – Optional Class
+
+Build Tools & Testing
+13:32:51 – Maven
+15:42:13 – Gradle
+16:13:17 – JUnit
+
+Version Control & DSA
+19:04:46 – Git
+21:05:16 – DSA
+
+Databases & Web
+26:12:28 – JDBC
+28:39:36 – Servlets & JSP
+32:08:43 – REST APIs
+34:53:11 – Hibernate
+
+Spring Ecosystem
+35:44:49 – Spring Framework
+37:38:20 – Spring REST API
+38:55:14 – Spring JDBC
+39:24:38 – Spring Data JPA
+41:40:32 – Spring Security
+43:36:28 – JWT
+44:40:32 – OAuth2
+46:03:03 – Spring Boot MongoDB Project
+
+DevOps & Cloud
+47:18:23 – Docker
+49:30:26 – Cloud Deployment
+54:15:20 – Spring Boot + Kafka
+55:34:32 – Linux
+57:10:25 – Ansible
+58:56:44 – Jenkins
+60:13:33 – Terraform
+
+AI & Microservices
+51:00:41 – Spring AI
+51:47:59 – DeepSeek + Ollama
+52:08:08 – Microservices
