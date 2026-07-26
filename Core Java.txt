@@ -41,6 +41,7 @@ Core Java
 11:05:55 – Collection API
 11:53:15 – Stream API 
 12:40:32 – Optional Class
+12:57:55 - LVTI (Local Variable Type Inference)
 //Done
 
 Build Tools & Testing
