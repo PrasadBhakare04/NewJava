@@ -42,6 +42,8 @@ Core Java
 11:53:15 – Stream API 
 12:40:32 – Optional Class
 12:57:55 - LVTI (Local Variable Type Inference)
+13:07:23 - Sealed Class and Interface
+13:17:10 - Record Classes
 //Done
 
 Build Tools & Testing
